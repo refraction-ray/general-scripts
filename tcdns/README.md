@@ -2,7 +2,7 @@
 
 This is a shell script to detect and evaluate the 'pureness' of specified DNS server.
 
-It supports both ipv4 and ipv6 evaluation, i.e. the specified DNS server can be using ipv6 or ipv4 address,  meanwhile the query parts are also evaluate both in A and AAAA response.
+It supports both ipv4 and ipv6 evaluation, i.e. the specified DNS server can be using ipv6 or ipv4 address,  meanwhile the query parts are also evaluated both in A and AAAA response.
 
 ## Usage
 Learn how to use by `./tcdns.sh -h`.
