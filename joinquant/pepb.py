@@ -1,5 +1,5 @@
 '''
-python3, only runnable on jpinquant.com due to the data API
+python3, only runnable on joinquant.com due to the data API
 '''
 
 import pandas as pd
