@@ -42,7 +42,7 @@ def autoact(path=None):
     return 0
 
 if __name__ == "__main__":
-	if len(sys.argv) >= 2:
+    if len(sys.argv) >= 2:
         autoact(sys.argv[1])
     else:
-    	autoact()
+        autoact()
