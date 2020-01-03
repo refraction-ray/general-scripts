@@ -9,3 +9,7 @@ This folder gives a list of Alfred workflow scripts that I have written.
 * kr2cn.py
 
   Fast dictionary lookup for korean words in clipboard, naver dict API is utilized.
+
+* netstatus.py
+
+  Login and check status about tsinghua network with both auth and net system into considerations.
